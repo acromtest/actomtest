@@ -1,0 +1,2 @@
+test
+git remote add origin ssh://git@/repo-<wbr< a="">>path-on-server..git
